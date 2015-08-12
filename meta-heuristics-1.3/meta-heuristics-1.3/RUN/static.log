@@ -1,0 +1,158 @@
+>> Loading [../TSP/brench/berlin52.tsp]
+checkTaskStatus 
+getParentNodes 
+getParentNodes start loop 
+ getParentNodes 
+info: edaWorkflow.h:277: 
+info: edaWorkflow.h:279: 
+info: edaWorkflow.h:281: 
+end of loop at info: edaWorkflow.h:284: 
+getParentNodes 
+getParentNodes start loop 
+ getParentNodes 
+ parent task empty   edaWorkflow.h:222: 
+end of  parent task empty   edaWorkflow.h:226: 
+********ppp return  edaWorkflow.h:245: 0x60004ce80 0x23c8b0
+++++++++++++  edaSeqWorkflow.cpp:38: 0x23c8b0
+++++++++++++========  edaSeqWorkflow.cpp:47: 
+++++++++++++  edaSerialize.h:52: clsid: 50022
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 50082
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 3
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 50056
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 50050
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 50058
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 50011
+++++++++++++  edaSeqWorkflow.cpp:50: 
+++++++++++++  edaSerialize.h:52: clsid: 1
+++++++++++++  edaSeqWorker.h:39: 
+++++++++++++  edaSerialize.h:52: clsid: 50001
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  edaSeqWorker.h:42: 
+++++++++++++  edaSeqWorker.h:45: 
+++++++++++++  ../EDA/edaTS.h:81: 
+++++++++++++  ../EDA/edaTS.h:83: 
+++++++++++++  ../EDA/edaTS.h:85: 
+++++++++++++  ../EDA/edaTS.h:87: 
+++++++++++++  ../EDA/edaTS.h:93: 
+++++++++++++  ../EDA/edaTS.h:94: 
+++++++++++++  ../EDA/edaTS.h:96: 
+++++++++++++  ../EDA/edaTS.h:94: 
+++++++++++++  ../EDA/edaTS.h:96: 
+++++++++++++  ../EDA/edaTS.h:94: 
+++++++++++++  ../EDA/edaTS.h:96: 
+++++++++++++  ../EDA/edaTS.h:94: 
+++++++++++++  ../EDA/edaTS.h:96: 
+++++++++++++  ../EDA/edaTS.h:94: 
+++++++++++++  ../EDA/edaTS.h:96: 
+++++++++++++  ../EDA/edaTS.h:94: 
+++++++++++++  ../EDA/edaTS.h:96: 
+++++++++++++  ../EDA/edaTS.h:94: 
+++++++++++++  ../EDA/edaTS.h:96: 
+++++++++++++  ../EDA/edaTS.h:94: 
+++++++++++++  ../EDA/edaTS.h:96: 
+++++++++++++  ../EDA/edaTS.h:94: 
+++++++++++++  ../EDA/edaTS.h:96: 
+++++++++++++  ../EDA/edaTS.h:94: 
+++++++++++++  ../EDA/edaTS.h:96: 
+++++++++++++  ../EDA/edaTS.h:94: 
+++++++++++++  ../EDA/edaTS.h:96: 
+++++++++++++  ../EDA/edaTS.h:94: 
+++++++++++++  ../EDA/edaTS.h:96: 
+++++++++++++  ../EDA/edaTS.h:94: 
+++++++++++++  ../EDA/edaTS.h:96: 
+++++++++++++  ../EDA/edaTS.h:94: 
+++++++++++++  ../EDA/edaTS.h:96: 
+++++++++++++  ../EDA/edaTS.h:94: 
+++++++++++++  ../EDA/edaTS.h:96: 
+++++++++++++  ../EDA/edaTS.h:99: 
+++++++++++++  edaSeqWorker.h:48: 
+++++++++++++  edaSeqWorker.h:51: 
+++++++++++++  edaSeqWorker.h:54: 
+++++++++++++  edaSeqWorker.h:56: 
+++++++++++++  edaSeqWorkflow.cpp:52: 
+++++++++++++  edaSerialize.h:52: clsid: 50001
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  ../EDA/edaSerialize.h:52: clsid: 2
+++++++++++++  edaSeqWorkflow.cpp:64: 
+info: edaWorkflow.h:279: 
+info: edaWorkflow.h:281: 
+end of loop at info: edaWorkflow.h:284: 
+[Route] 34 49 29 43 45 47 14 42 32 50 26 25 51 13 12 46 27 10 11 4 5 24 23 38 33 35 21 17 0 44 3 15 19 48 22 30 20 16 2 40 8 9 7 18 31 6 41 1 28 37 36 39 
+[Fitness] -12413.2

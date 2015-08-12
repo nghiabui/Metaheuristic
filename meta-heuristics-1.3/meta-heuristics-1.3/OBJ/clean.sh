@@ -1,0 +1,1 @@
+rm tspGASearch.exe tspHCSearch.exe tspMASearch.exe tspMPI01Search.exe tspMPI02Search.exe tspMPI03Search.exe tspMPI04Search.exe tspMPIMASearch.exe tspSASearch.exe tspSEQ01Search.exe tspSEQ02Search.exe tspSEQ03Search.exe tspSEQ04Search.exe tspTSSearch.exe tspVNSSearch.exe *.a *.so *.dll

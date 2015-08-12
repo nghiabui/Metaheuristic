@@ -1,0 +1,92 @@
+>> Loading [InputFiles/input_100_10_10_1.txt]
+p10 T100 num of task10
+reach thischeckTaskStatus 
+getParentNodes 
+getParentNodes start loop 
+ getParentNodes 
+getParentNodes 
+getParentNodes start loop 
+ getParentNodes 
+ parent task empty   edaWorkflow.h:222: 
+end of  parent task empty   edaWorkflow.h:226: 
+********ppp return  edaWorkflow.h:245: 0x60004b0f0 0x23c8e0
+[Route]  2 1 5 7 9 6 0 8 3 4 
+[Fitness] Cmax 684 Tardiness 1956
+[Route]  3 2 6 0 8 9 7 1 5 4 
+[Fitness] Cmax 684 Tardiness 2461
+[Route]  8 7 6 5 0 9 4 3 2 1 
+[Fitness] Cmax 717 Tardiness 4099
+[Route]  8 5 0 3 1 9 7 4 2 6 
+[Fitness] Cmax 694 Tardiness 3801
+[Route]  1 8 2 9 4 3 7 6 0 5 
+[Fitness] Cmax 676 Tardiness 3157
+[Route]  5 4 1 6 0 8 2 7 9 3 
+[Fitness] Cmax 679 Tardiness 3647
+[Route]  2 4 0 6 8 1 5 9 3 7 
+[Fitness] Cmax 676 Tardiness 3887
+[Route]  8 9 2 1 5 0 7 6 3 4 
+[Fitness] Cmax 684 Tardiness 2711
+[Route]  0 5 1 4 3 6 8 7 9 2 
+[Fitness] Cmax 673 Tardiness 3688
+[Route]  2 0 5 8 7 4 3 9 1 6 
+[Fitness] Cmax 725 Tardiness 4122
+[Route]  3 0 2 9 5 8 7 1 6 4 
+[Fitness] Cmax 684 Tardiness 2581
+[Route]  4 1 8 2 9 7 5 0 3 6 
+[Fitness] Cmax 682 Tardiness 3843
+[Route]  7 6 1 5 9 0 8 2 3 4 
+[Fitness] Cmax 684 Tardiness 2382
+[Route]  5 0 2 1 6 8 9 4 7 3 
+[Fitness] Cmax 697 Tardiness 2950
+[Route]  4 6 0 1 9 8 7 2 5 3 
+[Fitness] Cmax 676 Tardiness 4107
+[Route]  4 3 0 8 1 2 6 9 7 5 
+[Fitness] Cmax 675 Tardiness 4341
+[Route]  9 7 6 3 0 5 4 2 8 1 
+[Fitness] Cmax 670 Tardiness 2757
+[Route]  4 0 7 1 9 8 6 5 3 2 
+[Fitness] Cmax 684 Tardiness 4708
+[Route]  5 1 4 8 7 2 6 0 3 9 
+[Fitness] Cmax 790 Tardiness 4430
+[Route]  7 2 8 5 4 3 9 6 0 1 
+[Fitness] Cmax 686 Tardiness 3515
+[Route]  7 3 9 6 8 2 4 1 5 0 
+[Fitness] Cmax 662 Tardiness 2568
+[Route]  3 2 0 4 9 7 8 1 5 6 
+[Fitness] Cmax 675 Tardiness 3577
+[Route]  7 3 1 4 5 6 2 0 9 8 
+[Fitness] Cmax 658 Tardiness 2551
+[Route]  0 2 6 4 3 7 8 1 5 9 
+[Fitness] Cmax 683 Tardiness 3880
+[Route]  3 7 8 6 2 1 9 5 0 4 
+[Fitness] Cmax 684 Tardiness 2317
+[Route]  2 9 7 1 3 4 6 8 0 5 
+[Fitness] Cmax 776 Tardiness 2791
+[Route]  8 2 9 6 1 0 3 7 5 4 
+[Fitness] Cmax 684 Tardiness 2631
+[Route]  5 8 0 2 1 4 6 9 7 3 
+[Fitness] Cmax 705 Tardiness 4008
+[Route]  0 9 1 7 8 4 2 5 6 3 
+[Fitness] Cmax 710 Tardiness 4133
+[Route]  8 2 7 4 0 1 5 3 6 9 
+[Fitness] Cmax 697 Tardiness 4552
+[Route]  9 1 2 0 8 7 5 3 4 6 
+[Fitness] Cmax 694 Tardiness 3003
+[Route]  9 4 3 0 6 5 2 7 1 8 
+[Fitness] Cmax 758 Tardiness 3950
+[Route]  3 6 5 1 0 4 8 9 2 7 
+[Fitness] Cmax 658 Tardiness 2658
+[Route]  4 0 3 5 7 9 2 8 1 6 
+[Fitness] Cmax 670 Tardiness 4160
+[Route]  5 6 1 3 4 7 9 8 0 2 
+[Fitness] Cmax 771 Tardiness 2872
+[Route]  0 9 8 4 5 7 6 2 1 3 
+[Fitness] Cmax 704 Tardiness 4746
+[Route]  1 2 4 7 0 5 3 9 6 8 
+[Fitness] Cmax 658 Tardiness 3077
+[Route]  3 9 6 1 4 5 0 2 8 7 
+[Fitness] Cmax 750 Tardiness 2658
+[Route]  7 5 8 6 2 9 3 4 0 1 
+[Fitness] Cmax 673 Tardiness 2828
+[Route]  5 0 8 4 3 2 7 6 1 9 
+[Fitness] Cmax 707 Tardiness 4689

@@ -1,0 +1,20 @@
+>> Loading [../TSP/brench/berlin52.tsp]
+checkTaskStatus 
+getParentNodes 
+getParentNodes start loop 
+ getParentNodes 
+info: edaWorkflow.h:277: 
+info: edaWorkflow.h:279: 
+info: edaWorkflow.h:281: 
+end of loop at info: edaWorkflow.h:284: 
+getParentNodes 
+getParentNodes start loop 
+ getParentNodes 
+ parent task empty   edaWorkflow.h:222: 
+end of  parent task empty   edaWorkflow.h:226: 
+********ppp return  edaWorkflow.h:245: 0x60004ce80 0x23c8b0
+++++++++++++  edaSeqWorkflow.cpp:38: 0x23c8b0
+++++++++++++========  edaSeqWorkflow.cpp:47: 
+++++++++++++  edaSerialize.h:52: clsid: 50022
+++++++++++++  edaSerialize.h:52: clsid: 50082
+++++++++++++  edaSerialize.h:52: clsid: 3
