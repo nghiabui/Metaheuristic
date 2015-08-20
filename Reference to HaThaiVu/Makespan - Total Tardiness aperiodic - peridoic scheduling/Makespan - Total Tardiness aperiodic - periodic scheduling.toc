@@ -1,0 +1,10 @@
+\contentsline {section}{\numberline {1}T\IeC {\'o}m l\IeC {\uhorn }\IeC {\d \ohorn }c}{2}
+\contentsline {section}{\numberline {2}Gi\IeC {\'\ohorn }i thi\IeC {\d \ecircumflex }u}{2}
+\contentsline {section}{\numberline {3}B\IeC {\`a}i to\IeC {\'a}n NP-Hard}{3}
+\contentsline {section}{\numberline {4}Heuristic \IeC {\dj }\IeC {\`\ecircumflex } xu\IeC {\'\acircumflex }t}{3}
+\contentsline {subsection}{\numberline {4.1}Heuristic cho th\IeC {\'\uhorn } t\IeC {\d \uhorn } LPT}{3}
+\contentsline {subsection}{\numberline {4.2}Heuristic cho th\IeC {\'\uhorn } t\IeC {\d \uhorn } EDF}{4}
+\contentsline {subsection}{\numberline {4.3}K\IeC {\'\ecircumflex }t h\IeC {\d \ohorn }p heuristic \IeC {\dj }\IeC {\h \ecircumflex } t\IeC {\'\ocircumflex }i \IeC {\uhorn }u \IeC {\dj }\IeC {\`\ocircumflex }ng th\IeC {\`\ohorn }i 2 m\IeC {\d u}c ti\IeC {\^e}u}{5}
+\contentsline {section}{\numberline {5}K\IeC {\'\ecircumflex }t qu\IeC {\h a} th\IeC {\d \uhorn }c nghi\IeC {\d \ecircumflex }m}{7}
+\contentsline {section}{\numberline {6}K\IeC {\'\ecircumflex }t lu\IeC {\d \acircumflex }n}{8}
+\contentsline {section}{\numberline {7}T\IeC {\`a}i li\IeC {\d \ecircumflex }u tham kh\IeC {\h a}o}{9}

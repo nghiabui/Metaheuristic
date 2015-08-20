@@ -1,0 +1,14 @@
+// periodic
+// number of jobs
+1
+// pi
+70
+// Cycle
+100
+// aperiodic
+// number of jobs
+10
+// pi
+50 15 52 37 28 49 29 26 29 1 
+// di
+18 15 10 10 8 5 9 6 3 27 
